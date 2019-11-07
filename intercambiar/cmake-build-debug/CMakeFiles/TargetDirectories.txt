@@ -1,0 +1,3 @@
+/home/kevin/CLionProjects/intercambiar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kevin/CLionProjects/intercambiar/cmake-build-debug/CMakeFiles/intercambiar.dir
+/home/kevin/CLionProjects/intercambiar/cmake-build-debug/CMakeFiles/edit_cache.dir
